@@ -1,0 +1,165 @@
+*
+{
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+header
+{
+    height: 26vh;
+background-color: brown;
+}
+.top
+{
+    background-color: black;
+    width: 62vw;
+    height: 4vh;
+    padding-right: 18vw;
+    padding-left: 18vw;
+    display: flex;
+}
+
+.tright
+{
+    
+    
+    width: 30%;
+
+}
+
+.tright ul
+{
+    display: flex;
+    margin-top: 0.9vh;
+}
+
+.tright p 
+{
+    color: aliceblue;
+    font-size: 8pt;
+}
+
+.tright a
+{
+    color: aliceblue;
+    font-size: 8pt;
+}
+
+.tleft
+{
+    background-color: aqua;
+   
+    width: 30%;
+}
+
+.down
+{
+    background-color: blue;
+    padding-right: 18vw;
+    padding-left: 18vw;
+    display: flex;
+    height: 22vh;
+}
+
+.dright
+{
+    background-color: azure;
+    margin-top: 3vh;
+    
+    height: 18vh;
+
+}
+
+.dleft
+{
+    background-color: cadetblue;
+    width: 20%;
+    height: auto;
+}
+
+.year
+{
+    margin-top: 3vh;
+    height: auto;
+    margin-left: 33vw;
+}
+
+.container
+{
+    background-color: chocolate;
+    padding-right: 18vw;
+    padding-left: 18vw;
+    
+}
+.ctop
+{
+    background-color: blueviolet;
+    height: 48vh;
+    width: 100%;
+    margin-bottom: 7vh;
+}
+
+.d
+{
+    display: flex;
+}
+
+.cright
+{
+    background-color: burlywood;
+    height: 48vh;
+    width: 16vw;
+
+}
+.cc
+{
+    background-color: darkcyan;
+    height: 48vh;
+    width: 38vw;
+}
+
+.cleft
+{
+    background-color: darkmagenta;
+    height: 48vh;
+    width: 10vw;
+}
+
+footer
+{
+    margin-top: 5vh;
+    background-color: darkkhaki;
+    height: 74vh;
+    width: 100%;
+}
+
+.f1
+{
+    background-color: greenyellow;
+    height: 68vh;
+    width: 62vw;
+ 
+    margin-left: 18vw;
+    margin-right: 18vw;
+
+}
+
+.f2
+{
+    background-color: black;
+    height: 4vh;
+    width:auto;
+    padding-top: 2vh;
+    padding-left: 22vw;
+
+}
+
+.f2 p
+{
+    color: aliceblue;
+    font-size: 9pt;
+   
+}
